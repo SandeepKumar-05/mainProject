@@ -1,0 +1,15 @@
+# Robot Control Server — Python Dependencies
+
+# Core WebSocket server
+websockets>=12.0
+
+# GPIO control (confirmed working)
+gpiozero>=2.0
+
+# Arduino serial communication
+pyserial>=3.5
+
+# Vision & Al (YOLOv8)
+ultralytics>=8.0
+opencv-python-headless>=4.8
+flask>=3.0
